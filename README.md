@@ -23,7 +23,7 @@ https://github.com/QueenieCplusplus/ITsec_UsersBehalf/blob/master/Phishing.js
 
     利用 cookie 追蹤 session，對瀏覽器暫存的潛在持續的個人訊息進行擷取 (包含攝影機、麥克風、密碼管理器)。
     
-即便使用者清除 cookie，或是對某些網頁禁止使用 cookie，然而駭客依然能在 Evercookie 找到會話識別符的永久儲存庫。
+即便使用者清除 cookie，或是對某些網頁禁止使用 cookie，然而駭客依然能在 Evercookie 程式庫找到會話識別符的永久儲存庫。
 
 除了 HTTP cookies，尚有其他儲存來源：
 
