@@ -27,7 +27,7 @@ https://github.com/QueenieCplusplus/ITsec_UsersBehalf/blob/master/Phishing.js
 
 https://github.com/QueenieCplusplus/ITsec_UsersBehalf/blob/master/getSessionOrCookie.js
 
-除了 HTTP cookies，尚有其他儲存來源：
+除了 HTTP cookies，尚有其他儲存來源，這些遺跡就是根據網路活動會遺留在曾經訪問的網站中，提供了駭客很好的追蹤線索。
 
 * HTML5 儲存區
 
