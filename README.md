@@ -25,6 +25,8 @@ https://github.com/QueenieCplusplus/ITsec_UsersBehalf/blob/master/Phishing.js
     
 即便使用者清除 cookie，或是對某些網頁禁止使用 cookie，然而駭客依然能在 Evercookie 程式庫找到會話識別符的永久儲存庫。
 
+https://github.com/QueenieCplusplus/ITsec_UsersBehalf/blob/master/getSessionOrCookie.js
+
 除了 HTTP cookies，尚有其他儲存來源：
 
 * HTML5 儲存區
