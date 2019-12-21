@@ -7,7 +7,7 @@
 
 此子議題，以 IFrame 作為描述攻擊過程的例子，身為 DOM 紀錄功能的網頁實例，其遍覽 DOM 內部所有頁框，試著掛鉤 SOP 的每個 IFrames，作為掛鉤的源頭。
 
-這意味著，針對掛鉤住的任何子頁框而言，其包含 DOM 事件紀錄。
+這意味著，針對掛鉤住的任何子頁框而言，其包含 DOM 事件紀錄。此 code 展示了利用函數建立起掛鉤子腳本元素的目的，最後利用迴圈遍覽每一個 IFrames 或是 ChildFrames，並附加腳本 Script 至頁框的 Body 中。
 
 https://github.com/QueenieCplusplus/ITsec_UsersBehalf/blob/master/Hooker.js
 
