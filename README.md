@@ -7,7 +7,7 @@
 
 # Attacks on Privacy
 
-對瀏覽器暫存的私人訊息進行擷取。
+對瀏覽器暫存的私人訊息進行擷取 (包含攝影機、麥克風、密碼管理器)。
 
 # Attacks via Social Tool
 
