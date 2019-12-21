@@ -21,4 +21,4 @@ https://github.com/QueenieCplusplus/ITsec_UsersBehalf/blob/master/Phishing.js
 
 # Attacks on Privacy
 
-    對瀏覽器暫存的私人訊息進行擷取 (包含攝影機、麥克風、密碼管理器)。
+    對瀏覽器暫存的潛在持續的個人訊息進行擷取 (包含攝影機、麥克風、密碼管理器)。
