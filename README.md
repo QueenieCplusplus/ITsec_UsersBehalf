@@ -11,10 +11,6 @@
 
 https://github.com/QueenieCplusplus/ITsec_UsersBehalf/blob/master/Hooker.js
 
-# Attacks on Privacy
-
-    對瀏覽器暫存的私人訊息進行擷取 (包含攝影機、麥克風、密碼管理器)。
-
 # Attacks via Social Tool
 
     社交工具包含視窗、全螢幕、UI、Phishing、偽造電子簽章、偽造軟體更新。
@@ -22,3 +18,7 @@ https://github.com/QueenieCplusplus/ITsec_UsersBehalf/blob/master/Hooker.js
 此子議題，以 Gmail 的 Phishing 作為描述攻擊過程的例子，這類動態的、內嵌的 Ｐhishing，其攻擊腳本範例情詳 code。
 
 https://github.com/QueenieCplusplus/ITsec_UsersBehalf/blob/master/Phishing.js
+
+# Attacks on Privacy
+
+    對瀏覽器暫存的私人訊息進行擷取 (包含攝影機、麥克風、密碼管理器)。
