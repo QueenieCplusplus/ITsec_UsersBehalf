@@ -9,6 +9,8 @@
 
 這意味著，針對掛鉤住的任何子頁框而言，其包含 DOM 事件紀錄。
 
+https://github.com/QueenieCplusplus/ITsec_UsersBehalf/blob/master/Hooker.js
+
 # Attacks on Privacy
 
     對瀏覽器暫存的私人訊息進行擷取 (包含攝影機、麥克風、密碼管理器)。
