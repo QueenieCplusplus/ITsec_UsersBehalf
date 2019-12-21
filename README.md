@@ -17,5 +17,6 @@ https://github.com/QueenieCplusplus/ITsec_UsersBehalf/blob/master/Hooker.js
 
 # Attacks via Social Tool
 
-    社交工具包含視窗、全螢幕、UI、釣魚、電子簽章。
+    社交工具包含視窗、全螢幕、UI、Phishing、電子簽章。
 
+此子議題，以 Gmail 的 Phishing 作為描述攻擊過程的例子，這類動態的、內嵌的 Ｐhishing，其攻擊腳本範例情詳 code。
